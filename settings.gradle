@@ -1,0 +1,1 @@
+include ':AppMobile', ':Mobile.Dao', ':Mobile.Domain', ':Mobile.Entities', ':Mobile.Test'
